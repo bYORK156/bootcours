@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+
+}
+
+
+body{
+    font-family: Helvetica, sans-serif;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 20;
+
+}
+
+.navbar-brand{
+    display: flex;
+    justify-content: flex-start;
+}
+.me-2{
+    width: 100px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.img-fluid{
+    
+}
+.li-nav{
+    color: rgb(240, 233, 233) !important;
+}
+
